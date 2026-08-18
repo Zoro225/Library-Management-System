@@ -2,7 +2,7 @@
 
 A full-stack library management app built with Next.js (App Router), Prisma + SQLite, and NextAuth. Supports three roles: **Admin**, **Staff**, and **Student**.
 
-Can Access Using http://192.168.0.101:3000/
+Can Access Using [http://192.168.0.101:3000/](http://192.168.0.100:3000/)
 
 ## Contents
 
